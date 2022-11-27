@@ -1,0 +1,39 @@
+body {
+    background-color: #f4eeee;
+}   
+header {
+    background-color:rgb(145, 162, 162);
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menumain {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+button {
+    background-color: rgb(37, 195, 231);
+    background-image: url(https://cdn.discordapp.com/attachments/1035608166244810843/1044751853755310150/eurotour-logo-cor.png);
+    border: 5;
+    width: 200px;
+    height: 70px;
+    border-radius: 40%;
+}
+
+
+footer {
+background-color: rgb(225, 241, 177);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.logofooter {
+    border: 5;
+    width: 200px;
+    height: 70px;
+    border-radius: 31%;
+}
